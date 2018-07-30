@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,extend_shallow",
+    "logging_enabled": "false",
+    "name": "extend_shallowSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "extend_shallowSmokeTest.js"
+}
